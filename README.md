@@ -36,8 +36,4 @@ I'm a Fullstack Developer who enjoys building clean, reliable, and scalable web 
 
 <br><br>
 
-## 📊 GitHub Stats
-
-<!-- jstrieb github-stats -->
-<img src="https://github-stats-alpha.vercel.app/api?username=hafidkrntn&cc=0d1117&tc=ffffff&ic=ffffff&bc=0d1117" />
 
