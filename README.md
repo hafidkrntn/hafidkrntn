@@ -8,7 +8,8 @@ I'm a Fullstack Developer who enjoys building clean, reliable, and scalable web 
 <img src="https://github-stats-alpha.vercel.app/api?username=hafidkrntn&cc=0d1117&tc=ffffff&ic=ffffff&bc=0d1117" />
 
 <!-- Top languages (readme-stats mirror) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hafidkrntn&layout=compact&theme=transparent" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidkrntn&layout=compact&theme=transparent)
+
 
 
 
