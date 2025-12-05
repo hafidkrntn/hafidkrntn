@@ -4,8 +4,6 @@ I'm a Fullstack Developer who enjoys building clean, reliable, and scalable web 
 
 ## 🧰 Languages & Tools
 
-## 🧰 Languages & Tools
-
 <!-- Golang -->
 <img align="left" alt="Golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 
