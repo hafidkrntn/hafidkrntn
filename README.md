@@ -4,16 +4,8 @@ I'm a Fullstack Developer who enjoys building clean, reliable, and scalable web 
 
 ## 📊 GitHub Stats
 
-<!-- jstrieb github-stats (stable) -->
+<!-- jstrieb github-stats -->
 <img src="https://github-stats-alpha.vercel.app/api?username=hafidkrntn&cc=0d1117&tc=ffffff&ic=ffffff&bc=0d1117" />
 
-<!-- Top languages (readme-stats mirror) -->
-![Top Langs](https://gh-stats-hkp.vercel.app/api/top-langs/?username=hafidkrntn&layout=compact&theme=transparent)
-
-
-
-
-
-
-
-
+<!-- jstrieb top languages -->
+<img src="https://github-stats-alpha.vercel.app/api/top-langs?username=hafidkrntn&cc=0d1117&tc=ffffff&ic=ffffff&bc=0d1117" />
