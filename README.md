@@ -51,6 +51,7 @@ Currently exploring backend engineering, distributed systems, and scalable softw
 * **MicroAgent** — A lightweight transparent sidecar for microservices.
 * **StressKit** — A lightweight CLI toolkit for stress testing HTTP APIs.
 * **TaskFlow** — A lightweight workflow engine for defining and executing tasks.
+* **SITO** — A simple PWA for tracking motorcycle oil usage, estimating maintenance intervals, and receiving oil change reminders.
 
 ## 📫 Connect
 
